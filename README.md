@@ -1,6 +1,6 @@
-# Task Manager
+# EasyTask Tracker
 
-Task Manager is a simple web application built with Flask and JavaScript that allows users to manage their tasks.
+EasyTask Tracker is a simple web application built with Flask and JavaScript that allows users to manage their tasks.
 
 ## Features
 
